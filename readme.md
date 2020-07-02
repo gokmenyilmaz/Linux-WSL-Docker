@@ -3,8 +3,8 @@ Download kali linux from windows store
 set username and password
 cat /etc/os-release
 
-### wsl -l -v
-### wsl --set-default kali-linux 2
+-- wsl -l -v
+-- wsl --set-default kali-linux 2
 ### wsl -d kali-linux
 
 ### sudo apt install nmap // nedir?
