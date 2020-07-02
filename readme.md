@@ -3,17 +3,17 @@ Download kali linux from windows store
 set username and password
 cat /etc/os-release
 
--- wsl -l -v
--- wsl --set-default kali-linux 2
-### wsl -d kali-linux
+wsl -l -v  
+wsl --set-default kali-linux 2  
+wsl -d kali-linux  
 
 ### sudo apt install nmap // nedir?
 
-### sudo apt update
-### sudo apt install xfce4
-### sudo apt install xrdp
-### sudo /etc/init.d/xrdp start
+sudo apt update  
+sudo apt install xfce4  
+sudo apt install xrdp  
+sudo /etc/init.d/xrdp start  
 
-### ifconfig    -- get ip number
+ifconfig    -- get ip number  
 
-### connect kali with windows 10 remote desktop
+connect kali with windows 10 remote desktop  
