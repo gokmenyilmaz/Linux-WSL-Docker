@@ -23,3 +23,5 @@ wsl --unregister kali-linux
 
 wsl --unregister
 sudo apt update && sudo apt upgrade -y
+
+lsb_release -a  verionu görmek için  
