@@ -1,3 +1,4 @@
+# Kali linux install and remote desktop
 Download kali linux from windows store
 set username and password
 cat /etc/os-release
