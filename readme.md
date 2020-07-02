@@ -18,10 +18,11 @@ ifconfig    -- get ip number
 
 connect kali with windows 10 remote desktop  
 
-## silmek için
+## to delete
 wsl --unregister kali-linux
 
-wsl --unregister
+## update
 sudo apt update && sudo apt upgrade -y
 
-lsb_release -a  verionu görmek için  
+## to see linux version
+lsb_release -a  
