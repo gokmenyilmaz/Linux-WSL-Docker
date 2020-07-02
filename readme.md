@@ -20,3 +20,6 @@ connect kali with windows 10 remote desktop
 
 ## silmek için
 wsl --unregister kali-linux
+
+wsl --unregister
+sudo apt update && sudo apt upgrade -y
