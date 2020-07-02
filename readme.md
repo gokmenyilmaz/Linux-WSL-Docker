@@ -13,3 +13,7 @@ cat /etc/os-release
 ### sudo apt install xfce4
 ### sudo apt install xrdp
 ### sudo /etc/init.d/xrdp start
+
+### ifconfig    -- get ip number
+
+### connect kali with windows 10 remote desktop
