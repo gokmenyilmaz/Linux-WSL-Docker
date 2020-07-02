@@ -17,3 +17,6 @@ sudo /etc/init.d/xrdp start
 ifconfig    -- get ip number  
 
 connect kali with windows 10 remote desktop  
+
+## silmek için
+wsl --unregister kali-linux
